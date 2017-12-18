@@ -1,0 +1,10 @@
+C:\source\codeworks\fall17\guess\bin\Debug\netcoreapp2.0\guess.deps.json
+C:\source\codeworks\fall17\guess\bin\Debug\netcoreapp2.0\guess.runtimeconfig.json
+C:\source\codeworks\fall17\guess\bin\Debug\netcoreapp2.0\guess.runtimeconfig.dev.json
+C:\source\codeworks\fall17\guess\bin\Debug\netcoreapp2.0\guess.dll
+C:\source\codeworks\fall17\guess\bin\Debug\netcoreapp2.0\guess.pdb
+C:\source\codeworks\fall17\guess\obj\Debug\netcoreapp2.0\guess.csproj.CoreCompileInputs.cache
+C:\source\codeworks\fall17\guess\obj\Debug\netcoreapp2.0\guess.AssemblyInfoInputs.cache
+C:\source\codeworks\fall17\guess\obj\Debug\netcoreapp2.0\guess.AssemblyInfo.cs
+C:\source\codeworks\fall17\guess\obj\Debug\netcoreapp2.0\guess.dll
+C:\source\codeworks\fall17\guess\obj\Debug\netcoreapp2.0\guess.pdb
